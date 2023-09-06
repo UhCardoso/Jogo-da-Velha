@@ -1,5 +1,5 @@
 # Jogo da Velha
-Projeto criado usando HTML, CSS e JavaScript Puro. [Acessar aplicação](https://werlen-dev.web.app/jogo-da-velha/)
+Projeto criado usando HTML, CSS e JavaScript Puro. [Acessar aplicação](https://werlen-dev.web.app/projeto-jogo-da-velha/)
 
 [![galeria](https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Fimages%2Fjogovelha.png?alt=media&token=da55ddda-1755-4e60-9f86-5961a6461816)](https://werlen-dev.web.app/jogo-da-velha/)
 
