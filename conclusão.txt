@@ -1,0 +1,28 @@
+Selecão de elementos HTML no javascript através do query selector;
+
+utilizor o For parapegar todos os elementos referentes ao espaço de onde
+ficará o simbolo de X ou O, utilizando o método clonar os elemantos, para adicionar
+os simbolos e não apenas substituílos no html;
+
+estrutura de decisão para decidir se o player vai jogar contra outra pessoa ou contra a
+máquina;
+
+sistema de condição de vitória para verificar qual player venceu mostrando a 
+mensagem de vitória
+
+sistema de condição para checar se o player1 ou o player 2 que fará a proxima
+jogada;
+
+sistema de checagem de vitória
+ Vai ser declarado vencedor se os simbolos da horizontal que foi toda preenchida
+ forem iguais. A msm lógica é aplicada a cada coluna e as diagonais.
+ se nehuma das linhas fecharem com simbolos iguais dará a mensagem de "Velha".
+
+Quando o jogador vence, é aplicada a çógica de aumentar a contagem de placar
+visivel no html
+
+Utilizou a biblioteca Math do javaScript para fazer o computador marcar uma posição
+aleatoria no jogo da velha para que fosse possivel jogar contra a máquina
+
+após o fim da jogada, utilizamos os métodos de manipulação de elementos através do javascript
+para remover os simbolos que forma preenchidos durante a ultima partida.
